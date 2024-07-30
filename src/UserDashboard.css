@@ -1,0 +1,40 @@
+.user  
+{
+  width: 40%;
+    margin: auto;
+    padding: 40px;
+    border: 1px solid #ddd;
+  }
+  
+ h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+ label 
+ {
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+  
+ input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+ button 
+ {
+    background-color: #000000;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+ button:hover 
+  {
+    background-color: #a53a43;
+  }
+  
